@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @danielbrah
 - 👀 I’m interested in web development
+- Good knowledge of HTML and CSS. 
 - 🌱 I’m currently learning JavaScript, PHP, and SQL!
 - 📫 How to reach me: daniel.jimenezfrancisco@gmail.com
 
