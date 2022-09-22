@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @danielbrah
-- 👀 I’m interested in web development
-- Good knowledge of HTML and CSS. 
-- 🌱 I’m currently learning Python and JavaScript!
-- 📫 How to reach me: daniel.jimenezfrancisco@gmail.com
+Hello, my name is Daniel! I am interested in web development, specifically being in the frond-end. I have a good knowledge of HTML, CSS, and SCSS. I am currently learning Python and JavaScript. DOM manipulation is the main thing I am focusing on right now for JavaScript. I may use frameworks like React or Vue in the future if I get the chance. You can reach me via email: daniel.jimenezfrancisco@gmail.com.
 
-<!---
-danielbrah/danielbrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Portfolio (WIP): https://danielbrah-portfolio.netlify.app
